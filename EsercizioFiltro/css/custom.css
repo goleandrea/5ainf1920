@@ -1,0 +1,43 @@
+.green{
+    background-color: green;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
+
+.redText{
+    color: red;
+}
+
+.textCenter {
+    text-align: center;
+  }
+
+
+.blue{
+    background-color: blue;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.gray{
+    background-color: gray;
+}
+
+/*# sta come l'id*/
+#larghezzaRiga{
+    border: 20px solid red;
+    padding: 30px dashed blue;
+    margin: 40px dotted orange;
+}
